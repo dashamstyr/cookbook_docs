@@ -1,6 +1,6 @@
 from pybtex.database.input import bibtex
 parser = bibtex.Parser()
-bib_data = parser.parse_file('out.bib')
+bib_data = parser.parse_file('feedbacks.bib')
 class hold(object):
     pass
 the_list=[]
@@ -11,6 +11,11 @@ for the_key in bib_data.entries.keys():
     value.title=bib_data.entries[the_key].fields['title']
     value.resource=bib_data.entries[the_key].fields['resource']
     the_list.append(value)
+
+def sort_by_key(the_value):
+    return the_value.key
+
+the_list.sort(key=sort_by_key)
 
 # Finally, process the template to produce our final text.
 
@@ -59,6 +64,6 @@ templateVars = {"seq":the_list}
 # Finally, process the template to produce our final text.
 outputText = template.render( templateVars )
 
-with open('index.rst','w') as fh:
+with open('index_out.rst','w') as fh:
     fh.write(outputText)
     

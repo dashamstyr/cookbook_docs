@@ -1,41 +1,154 @@
 
-Recent papers
-_____________
+Feedback notes  --  2014/Jan/14
+_______________________________
 
 
-* :cite:`Kuang06`:  `Kuang06: A Mass-Flux Scheme View of a High-Resolution Simulation of a Transition from Shallow to Deep Cumulus Convection <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/JAS3723.1>`_
-* :cite:`Boing12a`:  `Boing12a: Influence of the Subcloud Layer on the Development of a Deep Convective Ensemble <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-11-0317.1>`_
-* :cite:`Boing12b`:  `Boing12b: Detrainment in deep convection <http://ezproxy.library.ubc.ca/login?url=http://www.agu.org/pubs/crossref/2012/2012GL053735.shtml>`_
-* :cite:`Nuijens12`:  `Nuijens12: The Influence of Wind Speed on Shallow Marine Cumulus Convection <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-11-02.1>`_
-* :cite:`Rieck12`:  `Rieck12: Marine Boundary Layer Cloud Feedbacks in a Constant Relative Humidity Atmosphere <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-11-0203.1>`_
-* :cite:`Bellon12`:  `Bellon12: Using the Sensitivity of Large-Eddy Simulations to Evaluate Atmospheric Boundary Layer Models <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-11-0160.1>`_
-* :cite:`Wu09`:  `Wu09: What Controls the Transition from Shallow to Deep Convection? <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/2008JAS2945.1>`_
-* :cite:`deRooy12`:  `deRooy12: Entrainment and detrainment in cumulus convection: an overview <http://ezproxy.library.ubc.ca/login?url=http://doi.wiley.com/10.1002/qj.1959>`_
-* :cite:`Stratton12`:  `Stratton12: Improving the diurnal cycle of convection in GCMs <http://ezproxy.library.ubc.ca/login?url=http://doi.wiley.com/10.1002/qj.v138.666>`_
-* :cite:`Stirling12`:  `Stirling12: Entrainment processes in the diurnal cycle of deep convection over land <http://ezproxy.library.ubc.ca/login?url=http://doi.wiley.com/10.1002/qj.v138.666>`_
-* :cite:`Grabowski06`:  `Grabowski06: Daytime convective development over land: A model intercomparison based on LBA observations <http://ezproxy.library.ubc.ca/login?url=http://doi.wiley.com/10.1256/qj.04.147>`_
-* :cite:`vanZanten11`:  `vanZanten11: Controls on precipitation and cloudiness in simulations of trade-wind cumulus as observed during RICO <http://ezproxy.library.ubc.ca/login?url=http://www.agu.org/pubs/crossref/2011/2011MS000056.shtml>`_
-* :cite:`Stevens09`:  `Stevens09: Untangling aerosol effects on clouds and precipitation in a buffered system <http://ezproxy.library.ubc.ca/login?url=http://www.nature.com/doifinder/10.1038/nature08281>`_
-* :cite:`Lee11`:  `Lee11: Dependence of aerosol-precipitation interactions on humidity in a multiple-cloud system <http://www.atmos-chem-phys.net/11/2179/2011/>`_
-* :cite:`Romps10`:  `Romps10: Nature versus Nurture in Shallow Convection <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/2009JAS3307.1>`_
-* :cite:`Wood09`:  `Wood09: Understanding the Importance of Microphysics and Macrophysics for Warm Rain in Marine Low Clouds. Part II: Heuristic Models of Rain Formation <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/2009JAS3072.1>`_
-* :cite:`Wood12a`:  `Wood12a: Stratocumulus Clouds <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-11-00121.1>`_
-* :cite:`Colman11`:  `Colman11: On tropospheric adjustment to forcing and climate feedbacks <http://ezproxy.library.ubc.ca/login?url=http://www.springerlink.com/index/10.1007/s00382-011-1067-4>`_
-* :cite:`Colman04`:  `Colman04: On the structure of water vapour feedbacks in climate models <http://ezproxy.library.ubc.ca/login?url=http://www.agu.org/pubs/crossref/2004/2004GL020708.shtml>`_
-* :cite:`Wood12b`:  `Wood12b: Precipitation driving of droplet concentration variability in marine low clouds <http://ezproxy.library.ubc.ca/login?url=http://www.agu.org/pubs/crossref/2012/2012JD018305.shtml>`_
-* :cite:`Yano12a`:  `Yano12a: Single SCA-plume dynamics <http://ezproxy.library.ubc.ca/login?url=http://linkinghub.elsevier.com/retrieve/pii/S0377026512000395>`_
-* :cite:`Yano12b`:  `Yano12b: Convective quasi-equilibrium <http://ezproxy.library.ubc.ca/login?url=http://www.agu.org/pubs/crossref/2012/2011RG000378.shtml>`_
-* :cite:`Khairoutdinov06`:  `Khairoutdinov06: High-Resolution Simulation of Shallow-to-Deep Convection Transition over Land <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/JAS3810.1>`_
-* :cite:`Fasullo12`:  `Fasullo12: A Less Cloudy Future: The Role of Subtropical Subsidence in Climate Sensitivity <http://ezproxy.library.ubc.ca/login?url=http://www.sciencemag.org/cgi/doi/10.1126/science.1227465>`_
-* :cite:`Neggers07`:  `Neggers07: Variance scaling in shallow-cumulus-topped mixed layers <http://ezproxy.library.ubc.ca/login?url=http://doi.wiley.com/10.1002/qj.v133%3A628>`_
+Adding a paper/edting webpages
+==============================
 
-Day 
+0) Pro-tip: There's a nice emacs mode for rst files: http://docutils.sourceforge.net/docs/user/emacs.html
 
-* :cite:`Stephens12`:  `Stephens12: An update on Earth's energy balance in light of the latest global observations <http://ezproxy.library.ubc.ca/login?url=http://www.nature.com/doifinder/10.1038/ngeo1580>`_
-* :cite:`Loeb05`:  `Loeb05: Angular Distribution Models for Top-of-Atmosphere Radiative Flux Estimation from the Clouds and the Earths Radiant Energy System Instrument on the <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/JTECH1712.1>`_
-* :cite:`Wielicki96`:  `Wielicki96: Clouds and the Earth's Radiant Energy System (CERES): An Earth Observing System Experiment <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/1520-0477%281996%29077%3C0853%3ACATERE%3E2.0.CO%3B2>`_
+1) Clone the repository via ssh::
 
-.. rubric:: References
+     git clone ssh://jcole@roc.eos.ubc.ca/users/phil/repos/feedbacks
 
-.. bibliography:: out.bib
+2) To get a bibtex entry from a doi use my crossref.py script::
+
+     phil@denmank% python crossref.py 10.1175/JCLI-D-11-00726.1
+
+     @ARTICLE{Sanderson12,
+     author = {Sanderson, Benjamin M. and Shell, Karen M.},
+     title = {Model-Specific Radiative Kernels for Calculating Cloud and Noncloud Climate Feedbacks},
+     journal = {J. Climate},
+     volume = {25},
+     number = {21},
+     year = {2012},
+     pages = {7607-7624},
+     doi = {10.1175/JCLI-D-11-00726.1},
+     resource = {url=http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00726.1},
+     }
+
+3) Append this bibitem to feedbacks.bib
+
+4) Make sure you have the pybtex and sphinx-bibtex modules installed::
+
+     pip install --upgrade pybtex
+
+     pip install --upgrade sphinxcontrib-bibtex
+
+5) Run readit.py to produce a new reference list with journal URLs called index_out.rst::
+
+     python readit.py
+
+6) Add the URL-enhanced journal item to index.rst::
+ 
+     * :cite:`Sanderson12`:  `Sanderson12: Model-Specific ...
+
+7) Rebuild the web pages::
+
+     bash doit.sh
+
+8) When you're ready -- commit and push your changes and I'll rebuild the website  (or if you're working
+   on roc), you could rebuild the website in your home directory and I'll rsync it to the server.
+
+
+Overview/review
+===============
+
+* Basic definition: latitude-dependent Taylor series expansion as in 
+  Feldl and Roe, 2013 :cite:`Feldl13a`:
+
+  .. math::
+     :label: feedback     
+
+     -\Delta R_f(x) = - \Delta \left ( \nabla \cdot \vec{F}(x) \right ) + \sum_i \lambda_i (x) \Delta T_s
+     + \cal{O}(\Delta T_s^2)
+
+  where :math:`T_s` is either the globally averaged surface temperature :math:`{\overline{T_s}}` or surface temperature 
+  average over latitude x.  The feedback parameter for the ith climate
+  field is :math:`\lambda_i(x)` is the product of the *radiative kernel* X *the climate response*
+
+  .. math::
+     :label: factors
+
+     \lambda_i(x) =  \frac{\Delta R}{\Delta \alpha_i}  \Bigg |_{\alpha_{j,j \neq i}} \frac{ \Delta \alpha_i}{\Delta T_s}
+
+* see also: Roe, 2009 :cite:`Roe09` : Good review of global mean feedback analysis 
+
+
+
+Radiative kernels
+=================
+
+1) The kernels for Soden et al., 2008 :cite:`Soden08` and  are calculated
+   using GFDL radiation code and atmospheric model (AM2p12b) base climatology and 
+   archived at http://www.rsmas.miami.edu/personal/bsoden/data/kernels.html in netcdf format.
+   The Shell et al., 2008 :cite:`Shell08` using the NCAR CAM are available
+   at http://people.oregonstate.edu/~shellk/kernel.html  Vial 2013 :cite:`Vial13` uses
+   the Shell 2008 kernel.
+  
+2) The kernels for Zelinka, 2012a :cite:`Zelinka12a` calculate the radiative response for each
+   of the cloud types in the ISCCP CTP-:math:`\tau` bins, for each latitude band and for each
+   month.  Given the kernel  K and the change in cloud type :math:`\Delta C` the cloud radiative effect
+   for that change is :math:`\Delta R = K \Delta C` and the cloud feedback is 
+
+   .. math::
+
+      f = \frac{\Delta R}{\Delta \overline{T_s}}
+
+   which is a function of cloud top pressure, :math:`\tau`, latitude, longitude, and month.
+   
+
+Linear regression
+=================
+
+Andrews et al., 2012 :cite:`Andrews12` find the global climate sensitivity using  linear regression 
+of :math:`\Delta R` on :math:`\Delta T_s` in equation :eq:`feedback` .   One problem with this
+technique is that it assumes time independent forcings, which is probably a poor approximation
+according to Armour (2013) :cite:`Armour13`  
+
+
+Explaining feedbacks
+====================
+
+Zhang et al. (2013) :cite:`Zhang13` use single column simulations of a control and and warm case
+to show that SCM15 exhibits positive cloud feedback for a trade cumulus cloud regime.  Brient and Bony (2013)
+:cite:`Brient13` show that this is due to drying above the boundary layer in the IPSL model.  They show that
+they get feedbacks of opposite signs when compare a 4 x :math:`\Delta CO_2` experiment to a +4 K SST
+experiment.
+
+
+Sherwood et al. (2014) :cite:`Sherwood14` look at relative humidity and temperature changes
+between 850 and 700 hPa to diagnose low level drying in the CMIP5 ensemble and show that 
+
+
+
+
+Paper downloads
+===============
+
+* :cite:`Andrews12`:  `Andrews12: Forcing, feedbacks and climate sensitivity in CMIP5 coupled atmosphere-ocean climate models <http://doi.wiley.com/10.1029/2012GL051607>`_
+* :cite:`Armour13`:  `Armour13: Time-Varying Climate Sensitivity from Regional Feedbacks <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00544.1>`_
+* :cite:`Brient13`:  `Brient13: Interpretation of the positive low-cloud feedback predicted by a climate model under global warming <http://ezproxy.library.ubc.ca/login?url=http://link.springer.com/10.1007/s00382-011-1279-7>`_
+* :cite:`Caldwell13`:  `Caldwell13: CMIP3 Subtropical Stratocumulus Cloud Feedback Interpreted through a Mixed-Layer Model <http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00188.1>`_
+* :cite:`Feldl13a`:  `Feldl13a: Four perspectives on climate feedbacks <http://doi.wiley.com/10.1002/grl.50711>`_
+* :cite:`Feldl13b`:  `Feldl13b: The Nonlinear and Nonlocal Nature of Climate Feedbacks <http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00631.1>`_
+* :cite:`Gettelman13`:  `Gettelman13: Spatial Decomposition of Climate Feedbacks in the Community Earth System Model <http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00497.1>`_
+* :cite:`Ingram13`:  `Ingram13: A new way of quantifying GCM water vapour feedback <http://link.springer.com/10.1007/s00382-012-1294-3>`_
+* :cite:`Roe09`:  `Roe09: Feedbacks, Timescales, and Seeing Red <http://www.annualreviews.org/doi/abs/10.1146/annurev.earth.061008.134734>`_
+* :cite:`Sanderson12`:  `Sanderson12: Model-Specific Radiative Kernels for Calculating Cloud and Noncloud Climate Feedbacks <url=http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00726.1>`_
+* :cite:`Shell08`:  `Shell08: Using the Radiative Kernel Technique to Calculate Climate Feedbacks in NCARs Community Atmospheric Model <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/2007JCLI2044.1>`_
+* :cite:`Sherwood14`:  `Sherwood14: Spread in model climate sensitivity traced to atmospheric convective mixing <http://www.nature.com/doifinder/10.1038/nature12829>`_
+* :cite:`Soden08`:  `Soden08: Quantifying Climate Feedbacks Using Radiative Kernels <http://ezproxy.library.ubc.ca/login?url=http://journals.ametsoc.org/doi/abs/10.1175/2007JCLI2110.1>`_
+* :cite:`Vial13`:  `Vial13: On the interpretation of inter-model spread in CMIP5 climate sensitivity estimates <http://link.springer.com/10.1007/s00382-013-1725-9>`_
+* :cite:`Zelinka12`:  `Zelinka12: Climate Feedbacks and Their Implications for Poleward Energy Flux Changes in a Warming Climate <http://ezproxy.library.ubc.ca/login?Url=http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00096.1>`_
+* :cite:`Zelinka12a`:  `Zelinka12a: Computing and Partitioning Cloud Feedbacks Using Cloud Property Histograms. Part I: Cloud Radiative Kernels <http://ezproxy.library.ubc.ca/login?Url=http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00248.1>`_
+* :cite:`Zelinka12b`:  `Zelinka12b: Computing and Partitioning Cloud Feedbacks Using Cloud Property Histograms. Part II: Attribution to Changes in Cloud Amount, Altitude, and Optical Depth <http://ezproxy.library.ubc.ca/login?Url=http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00249.1>`_
+* :cite:`Zelinka13`:  `Zelinka13: Contributions of Different Cloud Types to Feedbacks and Rapid Adjustments in CMIP5 <http://ezproxy.library.ubc.ca/login?Url=http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00555.1>`_
+* :cite:`Zhang13`:  `Zhang13: CGILS: Results from the first phase of an international project to understand the physical mechanisms of low cloud feedbacks in single column models <http://doi.wiley.com/10.1002/2013MS000246>`_
+
+
+.. rubric:: Citations
+
+.. bibliography:: feedbacks.bib
    :style: unsrt

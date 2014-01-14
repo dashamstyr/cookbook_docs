@@ -27,7 +27,7 @@ extensions = ['sphinxcontrib.bibtex','sphinx.ext.autodoc','sphinx.ext.doctest',
               'sphinx.ext.ifconfig',
               'matplotlib.sphinxext.only_directives']#,'matplotlib.sphinxext.plot_directive']
 extensions.append('sphinx.ext.mathjax')  # or point to the ``mathjax.py`` file
-mathjax_path = '/gcss/MathJax/MathJax.js?config=default'
+mathjax_path = 'http://clouds.eos.ubc.ca/gcss/MathJax/MathJax.js?config=default'
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
@@ -110,10 +110,10 @@ html_theme_path = ["."]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "A301"
+html_title = "Feedback Links"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = "A301"
+html_short_title = "Feedbacks"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
