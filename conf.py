@@ -24,8 +24,10 @@ import sys, os
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = ['sphinxcontrib.bibtex','sphinx.ext.autodoc','sphinx.ext.doctest',
               'sphinx.ext.intersphinx', 'sphinx.ext.todo', 'sphinx.ext.coverage',
-              'sphinx.ext.ifconfig',
+              'sphinx.ext.ifconfig','sphinx.ext.extlinks',
               'matplotlib.sphinxext.only_directives']#,'matplotlib.sphinxext.plot_directive']
+extlinks = {'results': ('http://clouds.eos.ubc.ca/~phil/Downloads/feedbacks/results/%s','results: '),
+            'source': ('https://github.com/phaustin/cmip5_analysis/blob/master/%s','source: ')}
 extensions.append('sphinx.ext.mathjax')  # or point to the ``mathjax.py`` file
 mathjax_path = 'http://clouds.eos.ubc.ca/gcss/MathJax/MathJax.js?config=default'
 # Add any paths that contain templates here, relative to this directory.

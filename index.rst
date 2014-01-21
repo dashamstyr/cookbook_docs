@@ -10,6 +10,21 @@ _______________________________
 * :ref:`build`
 
 
+Results
+=======
+
+* Reproduce CanEsm2 numbers from Figure 2 of 
+  `Sherwood et al. <http://www.nature.com/doifinder/10.1038/nature12829>`_:
+
+  * :source:`calc_sherwood.py <calc_sherwood.py>` and :source:`plot_sherwood.py <plot_sherwood.py>`
+  
+  * omega for warm pool for rist 1000 monts of wap_Amon_CanESM2_esmControl_r1i1p1_190101-225012.nc: :results:`omega plot <sherwood_jan_19.html>`
+
+  * 1000 month area-weighted average of :results:`deltaR and deltaT <sherwood.html>`
+    which gives deltaT -7.64 K, deltaR = -22.87 %
+
+
+
 Overview/review
 ===============
 
