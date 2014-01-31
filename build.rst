@@ -7,7 +7,7 @@ Notes on adding a paper/edting webpages
 
 1) Clone the repository via ssh::
 
-     git clone ssh://jcole@roc.eos.ubc.ca/users/phil/repos/feedbacks
+     git clone ssh://jcole@roc.eos.ubc.ca/users/phil/repos/feedback_papers
 
 2) To get a bibtex entry from a doi use my crossref.py script::
 

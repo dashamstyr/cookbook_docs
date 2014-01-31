@@ -23,6 +23,7 @@ Results
   * 1000 month area-weighted average of :results:`deltaR and deltaT <sherwood.html>`
     which gives deltaT -7.64 K, deltaR = -22.87 %
 
+  * `Slides fromPhil's January CCCma talk <./cccma_talk.pdf>`_
 
 
 Overview/review
