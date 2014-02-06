@@ -23,7 +23,7 @@ _______________________
 Examples
 ________
 
-* `Plotting Aqua AMSR-E surface temps <plot_mercator.html>`_
+* `Plotting Aqua AMSR-E surface temps <plot_mercator.html>`_ (plot_mercator.py)
 
   
 
