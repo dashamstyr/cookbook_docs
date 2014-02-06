@@ -18,6 +18,11 @@ in atmospheric science.
 See :ref:`downloads` to get prerequisites
 
 
+I also keep a python installation guide and reading list at:
+http://clouds.eos.ubc.ca/~phil/compintro
+
+
+
 Examples
 ________
 

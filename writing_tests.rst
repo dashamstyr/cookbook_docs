@@ -20,7 +20,9 @@ Dependecies
 
 Uses routines from `slice_nc.py <slice_nc.html>`_ 
 
-Requires `nose <https://nose.readthedocs.org/en/latest/>`_
+Requires the `nose <https://nose.readthedocs.org/en/latest/>`_
+test runner.
+
 
 
 
