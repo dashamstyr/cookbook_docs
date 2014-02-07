@@ -18,14 +18,18 @@ Click on this link for a read-only view of the notebook using nbviewer:
 
 * `plot_mercator.ipynb <http://nbviewer.ipython.org/github/phaustin/cookbook/blob/master/notebooks/plot_mercator.ipynb?create=1>`_
 
+The source code is at:
+
+* `plot_mercator.py <https://github.com/phaustin/cookbook/blob/master/plot_mercator.py>`_
+
 
 To get the source code plus the IPython notebook in notebooks/plot_mercator.ipynb go to
 
 * :ref:`downloads`
 
 
-Dependecies
-===========
+Dependencies
+============
 
 Uses routines from `slice_nc.py <slice_nc.html>`_ 
 

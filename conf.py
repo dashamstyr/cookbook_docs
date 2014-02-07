@@ -99,13 +99,26 @@ pygments_style = 'sphinx'
 # Sphinx are currently 'default' and 'sphinxdoc'.
 #html_theme = 'default'
 #html_theme = 'sphinxphil'
-html_theme = 'bootstrap'
+html_theme = 'bootstrap3'
 html_theme_path = ["."]
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#html_theme_options = {}
+
+html_theme_options = {
+    # Bootswatch (http://bootswatch.com/) theme.
+    #
+    # Options are nothing with "" (default) or the name of a valid theme
+    # such as "amelia" or "cosmo".
+    #'bootswatch_theme': "united",
+    #'bootswatch_theme': "cerulean",
+    # 'bootswatch_theme': "simplex",
+     'bootswatch_theme': "spacelab",
+    # Choose Bootstrap version.
+    # Values: "3" (default) or "2" (in quotes)
+    'bootstrap_version': "3",
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
