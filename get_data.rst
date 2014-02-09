@@ -1,7 +1,7 @@
 .. _downloads:
 
-Downloading source code and data
---------------------------------
+Downloads
+---------
 
 .. index:: source code
 

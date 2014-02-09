@@ -115,7 +115,7 @@ html_theme_options = {
     #'bootswatch_theme': "cerulean",
     # 'bootswatch_theme': "simplex",
     # 'bootswatch_theme': "spacelab",
-      'bootswatch_theme': "flatly",
+      'bootswatch_theme': "phil_flatly",
     # Choose Bootstrap version.
     # Values: "3" (default) or "2" (in quotes)
     'bootstrap_version': "3",
