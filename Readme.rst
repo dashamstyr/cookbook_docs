@@ -11,4 +11,4 @@ routines
 License
 =======
 
-Licensed under the `CC Attribution 4.0 International license <http://creativecommons.org/licenses/by/4.0">`_ 
+Licensed under the `CC Attribution 4.0 International license <http://creativecommons.org/licenses/by/4.0>`_ 
